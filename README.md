@@ -19,13 +19,21 @@ Linear regression application on real data
 
 ## Contributors
 
-Vincent Palau
+- Vincent Palau
+- BeCode team members and coaches
 
 ## Timeline
 
 Friday 11-02-22  
 - Create repository on GitHub
 - Edit README file
+- Create cleaning file
+
+Monday 14-02-22
+- Clean dataset
+- update README file
+
+
 
 <img src="https://miro.medium.com/max/1400/1*dG6m4wnx3ARPtZPd8qf1tQ.gif">
 Image source : https://medium.com/analytics-vidhya/simple-linear-regression-cost-function-gradient-descent-50c5ed085770
